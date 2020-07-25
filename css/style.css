@@ -1,3 +1,13 @@
-.welcome-section{
+.welcome-section {
     background-color: red;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    background-color: gray;
+    position: fix;
+    top: 0px;
+    left: 0px;
+    width: 100%;
 }
